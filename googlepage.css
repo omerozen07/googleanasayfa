@@ -1,0 +1,54 @@
+.header {
+    text-align: center;
+}
+.onbox {
+    text-align: center;
+    background-color: rgb(245, 237, 237);
+    width: 1150px;
+    margin-left: 50px;
+}
+.card1 {
+    
+    float: left;
+    padding-bottom: 12px;
+    background-color: aqua;
+    width: 350px;
+    height: 98px;
+    padding-top: 20px;
+    margin-left: 50px;
+   
+}
+.card2 {
+    padding-top: 20px;
+    float: left;
+    background-color: rgb(112, 209, 209);
+    height: 110px;
+    width: 350px;
+    
+}
+.card3 {
+    
+    float: left;
+   font-size: 14px;
+   background-color: rgb(110, 201, 201);
+   width: 450px;
+   height: 130px;
+
+}
+.card {
+    text-align: center;
+    width: 1300px;
+}
+
+input[type=text]:focus {
+    background-color: lightblue;
+  }
+
+.foot {
+    text-align: center;
+    clear: both;
+    padding: 10px;
+}
+
+
+
